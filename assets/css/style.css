@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+/* font-family: 'Lato', sans-serif;
+Die background-color ist #D9E8E5, der graue Text ist rgba(0,0,0,.8)
+Nutze margin: auto um die letzten beiden Menüpunkte an den rechten Rand zu positionieren
+Nutze flex-wrap: wrap für die Bildergalerie. */
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+}
